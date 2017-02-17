@@ -1,0 +1,22 @@
+body {
+  margin-left: 400px;
+  margin-right: 400px;
+  background: #FEFFF7;
+  font-size: medium;
+  color: #2E2E2E;
+  text-align: left;
+
+}
+
+h1 {
+  font-family: arial;
+  letter-spacing: length;
+
+
+}
+
+h4 {
+  font-family: arial;
+  font-size: larger;
+  font-weight: normal;
+}
